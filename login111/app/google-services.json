@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "182262857564",
+    "project_id": "login111-dafee",
+    "storage_bucket": "login111-dafee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182262857564:android:5d3716fef39fa02787cb99",
+        "android_client_info": {
+          "package_name": "com.example.login111"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182262857564-dn83e48ofdsddf24qfmq9l279jqm93q1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMnAfbEk1Bzc1YwWEVYCg1j-a9pk-hWrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182262857564-dn83e48ofdsddf24qfmq9l279jqm93q1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
